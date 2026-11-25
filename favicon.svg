@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Pabasara Navod">
+  <rect width="32" height="32" rx="7" fill="#110C0B"/>
+  <path fill="#F4EEE4" d="M6.2 7.2h5.6c2.55 0 4.15 1.45 4.15 3.7 0 1.55-.78 2.72-2.05 3.28L16.6 24.8h-2.85l-2.45-9.55H8.7v9.55H6.2V7.2zm2.5 2.15v4.05h2.95c1.2 0 1.9-.62 1.9-1.98 0-1.4-.7-2.07-1.95-2.07H8.7z"/>
+  <path fill="#F4EEE4" d="M18.15 7.2h2.55l4.55 9.35V7.2H27.8v17.6h-2.55l-4.55-9.4v9.4h-2.55V7.2z"/>
+  <circle cx="27.15" cy="26.35" r="1.45" fill="#E14B42"/>
+</svg>
